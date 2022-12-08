@@ -1,0 +1,15 @@
+C:\Users\natka\source\repos\NumberRnd\NumberRnd\bin\Debug\net6.0\NumberRnd.exe
+C:\Users\natka\source\repos\NumberRnd\NumberRnd\bin\Debug\net6.0\NumberRnd.deps.json
+C:\Users\natka\source\repos\NumberRnd\NumberRnd\bin\Debug\net6.0\NumberRnd.runtimeconfig.json
+C:\Users\natka\source\repos\NumberRnd\NumberRnd\bin\Debug\net6.0\NumberRnd.dll
+C:\Users\natka\source\repos\NumberRnd\NumberRnd\bin\Debug\net6.0\NumberRnd.pdb
+C:\Users\natka\source\repos\NumberRnd\NumberRnd\obj\Debug\net6.0\NumberRnd.csproj.AssemblyReference.cache
+C:\Users\natka\source\repos\NumberRnd\NumberRnd\obj\Debug\net6.0\NumberRnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natka\source\repos\NumberRnd\NumberRnd\obj\Debug\net6.0\NumberRnd.AssemblyInfoInputs.cache
+C:\Users\natka\source\repos\NumberRnd\NumberRnd\obj\Debug\net6.0\NumberRnd.AssemblyInfo.cs
+C:\Users\natka\source\repos\NumberRnd\NumberRnd\obj\Debug\net6.0\NumberRnd.csproj.CoreCompileInputs.cache
+C:\Users\natka\source\repos\NumberRnd\NumberRnd\obj\Debug\net6.0\NumberRnd.dll
+C:\Users\natka\source\repos\NumberRnd\NumberRnd\obj\Debug\net6.0\refint\NumberRnd.dll
+C:\Users\natka\source\repos\NumberRnd\NumberRnd\obj\Debug\net6.0\NumberRnd.pdb
+C:\Users\natka\source\repos\NumberRnd\NumberRnd\obj\Debug\net6.0\NumberRnd.genruntimeconfig.cache
+C:\Users\natka\source\repos\NumberRnd\NumberRnd\obj\Debug\net6.0\ref\NumberRnd.dll
